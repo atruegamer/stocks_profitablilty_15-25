@@ -1,2 +1,4 @@
 # stocks_profitablilty_15-25
-a repository that shows the profitability of stocks from 2015 to 2025 
+
+This repository is a project for data analytics. This project aims to visualize the profit margin of the United States stock market from 2015 to 2025.
+this repository will [data soucrces c
